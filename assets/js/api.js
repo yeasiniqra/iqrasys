@@ -1,6 +1,6 @@
 "use strict";
-
-const BASE_URL = 'https://iqra-sever.vercel.app';
+// https://iqra-sever.vercel.app
+const BASE_URL = '';
 const COMMON_HEADERS = {
     'Access-Control-Allow-Origin': "*",
     "Content-Type": "application/json"
