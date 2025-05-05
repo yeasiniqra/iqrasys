@@ -1626,8 +1626,10 @@ a.inverntory-link {
 .view-all-blog {
     text-align: center;
 }
+
 .view-all-blog > .common-btn > a {
-    padding: 14px 35px;
+	padding: 14px 50px;
+	font-size: 17px;
 }
 
 .support-given-main-flex {
@@ -2780,7 +2782,7 @@ h1.white {
 
 /* ====== after hacked design update ======*/
 .licence__area{
-    padding-top: 50px;
+    padding-top: 5px;
     padding-bottom: 75px;
 }
 
