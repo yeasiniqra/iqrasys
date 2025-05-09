@@ -16,7 +16,7 @@ contactFormEl.addEventListener('submit', (e) => {
     }
 
     postMessage(payload).then(data => {
-        show.success("Thanks for sending us a message.");
+        show.success("Thank you for reaching out to us. Your message has been successfully sent.");
     }).catch(err => {
         show.error(err || "Something is wrong please try again");
     });
