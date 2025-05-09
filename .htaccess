@@ -4,9 +4,19 @@ RewriteEngine On
 # ----------------------------------------
 # Redirect old or incorrect URLs
 # ----------------------------------------
-Redirect 301 /about-us-2/ /about-us
 Redirect 301 /pharmacy-pos-management-software/ /pharmacy-pos-software
+Redirect 301 /pharmacy-management-pos-software/ /pharmacy-pos-software
 Redirect 301 /bonik-erp/ /erp-solution
+Redirect 301 /sd-database-design/ /database-design
+Redirect 301 /sd-software-developmen/ /custom-software-development
+Redirect 301 /sd-graphic-design-branding/ /graphic-design-branding
+Redirect 301 /sd-web-design-hosting/ /web-design-development
+Redirect 301 /sd-ict-training/ /ict-training
+Redirect 301 /your-business-needs-a-website/ /why-your-business-needs-a-website
+Redirect 301 /web-development{search_term_string}/ /web-development
+Redirect 301 /sd-ict-support/ /ict-support
+Redirect 301 /choosing-the-right-inventory-management-software/ /inventory-management-software
+Redirect 301 /advantages-using-pos-software-for-pharmacies/ /pos-software-for-pharmacies-in-bangladesh
 
 # ----------------------------------------
 # Redirect index variations to homepage
